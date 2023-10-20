@@ -5,6 +5,7 @@ import threading
 import concurrent.futures
 import datetime
 import random
+import os
 
 response_total_api_time = 0
 api_requests_total = 0
