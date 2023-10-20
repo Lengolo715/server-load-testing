@@ -1,0 +1,9 @@
+{
+    "api_request_response_time": [
+        "API call for account number: xxxxxxxxxx and snapshot date: 2023-03-27 response time is 9.874884 seconds.",
+        "API call for account number: xxxxxxxxxx and snapshot date: 2022-09-14 response time is 6.51906 seconds.",
+        "API call for account number: xxxxxxxxxx and snapshot date: 2023-02-13 response time is 8.544803 seconds.",
+        "API call for account number: xxxxxxxxxx and snapshot date: 2020-05-20 response time is 7.447299 seconds.",
+        "API call for account number: xxxxxxxxxx and snapshot date: 2020-02-28 response time is 9.249655 seconds."
+      ]
+}
