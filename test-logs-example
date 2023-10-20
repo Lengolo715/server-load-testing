@@ -1,0 +1,65 @@
+Date:                               2023-10-13
+Test Number:                        1
+Test Case (GET API):                32 RPU base capacity tested with 100 API requests using 100 threads.
+---------------------------
+Results
+---------------------------
+Status:                             Pass
+Total Requests:                     100
+Passed Requests:                    100
+Failed Requests:                    0
+Average Response Time (s):          8.13
+>>>>>>>>>>>>>>>>>
+
+Date:                               2023-10-13
+Test Number:                        2
+Test Case (GET API):                32 RPU base capacity tested with 100 API requests using 100 threads.
+---------------------------
+Results
+---------------------------
+Status:                             Pass
+Total Requests:                     100
+Passed Requests:                    100
+Failed Requests:                    0
+Average Response Time (s):          7.4
+>>>>>>>>>>>>>>>>>
+
+Date:                               2023-10-13
+Test Number:                        3
+Test Case (GET API):                32 RPU base capacity tested with 200 API requests using 200 threads.
+---------------------------
+Results
+---------------------------
+Status:                             Pass
+Total Requests:                     200
+Passed Requests:                    200
+Failed Requests:                    0
+Average Response Time (s):          13.24
+>>>>>>>>>>>>>>>>>
+
+Date:                               2023-10-13
+Test Number:                        4
+Test Case (GET API):                32 RPU base capacity tested with 250 API requests using 250 threads.
+---------------------------
+Results
+---------------------------
+Status:                             Pass
+Total Requests:                     250
+Passed Requests:                    250
+Failed Requests:                    0
+Average Response Time (s):          14.096
+>>>>>>>>>>>>>>>>>
+
+Date:                               2023-10-13
+Test Number:                        5
+Test Case (GET API):                32 RPU base capacity tested with 300 API requests using 300 threads.
+---------------------------
+Results
+---------------------------
+Status:                             Pass
+Total Requests:                     300
+Passed Requests:                    300
+Failed Requests:                    0
+Average Response Time (s):          15.95
+>>>>>>>>>>>>>>>>>
+
